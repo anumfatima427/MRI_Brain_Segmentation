@@ -21,7 +21,7 @@ This project aims to perform brain segmentation on MRI images using a UNET model
 
 ## Dataset Preparation
 
-Before using the code, you need to have an MRI dataset with corresponding brain masks. Place the MRI volumes and masks in separate directories and ensure that their filenames are consistent (e.g., image_001.nii.gz for MRI and image_001_mask.nii.gz for the corresponding mask). The '1-Dataset Preparation.ipynb' allows you to convert the 3D MRI into 2D slices in png format that can be used to train 2D segmentation models.
+Before using the code, you need to have an MRI dataset with corresponding brain masks. Place the MRI volumes and masks in separate directories and ensure that their filenames are consistent (e.g., image_001.nii.gz for MRI and image_001_mask.nii.gz for the corresponding mask). The `1-Dataset Preparation.ipynb` allows you to convert the 3D MRI into 2D slices in png format that can be used to train 2D segmentation models.
 
 ## Dataset Splitting
 
