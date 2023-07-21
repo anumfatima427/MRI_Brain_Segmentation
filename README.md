@@ -8,7 +8,6 @@ This repository contains code for preparing an MRI dataset, splitting it into tr
 - 📂 [Dataset Preparation](#dataset-preparation)
 - 🔄 [Dataset Splitting](#dataset-splitting)
 - 🚀 [Model Training](#model-training)
-- 💻 [Usage](#usage)
 - 📦 [Dependencies](#dependencies)
 
 
