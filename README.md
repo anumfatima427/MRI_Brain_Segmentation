@@ -1,4 +1,4 @@
-# 🧠 MRI Segmentation using UNET 🖥️
+# 🧠 MRI Segmentation using UNET 
 
 This repository contains code for preparing an MRI dataset, splitting it into train and test sets, and training a UNET model for brain segmentation.
 
